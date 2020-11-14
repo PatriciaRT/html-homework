@@ -1,1 +1,1 @@
-# html-homework
+templatemo_526_vanilla
